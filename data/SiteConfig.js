@@ -8,7 +8,7 @@ module.exports = {
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "", // FB Application ID for using app insights
   googleAnalyticsID: "UA-122165531-2", // GA tracking ID.
-  disqusShortname: "https-vagr9k-github-io-gatsby-advanced-starter", // Disqus shortname.
+  disqusShortname: "https-dsobrien-github-io-gatsby-advanced-starter", // Disqus shortname.
   postDefaultCategoryID: "Tech", // Default category for posts.
   userName: "User", // Username to display in the author segment.
   userTwitter: "@Dshonobrien", // Optionally renders "Follow Me" in the UserInfo segment.
@@ -20,7 +20,7 @@ module.exports = {
   userLinks: [
     {
       label: "GitHub",
-      url: "https://github.com/Vagr9K/gatsby-advanced-starter",
+      url: "https://github.com/dsobrien/gatsby-advanced-starter",
       iconClassName: "fa fa-github"
     },
     {
