@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: "Gatsby WordPress Starter", // Site title.
   siteTitleAlt: "GatsbyJS WordPress API Starter", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
-  siteUrl: "daronobrien.me", // Domain of your website without pathPrefix.
+  siteUrl: "dsobrien.wordpress.me", // Domain of your website without pathPrefix.
   pathPrefix: "/gatsby-wordpress-starter", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "A GatsbyJS stater with the WordPress API built  in mind.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
